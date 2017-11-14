@@ -17,6 +17,6 @@ function nameToAttributes(drivers) {
 
 function attributesToPhrase(drivers) {
   const driverInfo = drivers.map(function(element) {
-    return 
+    return
   })
 }
